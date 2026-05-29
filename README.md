@@ -1,4 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhtoriet)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=minhtoriet&layout=compact&exclude_repo=SpaceInvaders,Snake-Java&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **minhtoriet/minhtoriet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
