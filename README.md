@@ -1,4 +1,4 @@
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=minhtoriet&hide=jupyter%20notebook,html)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=minhtoriet&hide=jupyter%20notebook,html,css)
 
 <!--
 **minhtoriet/minhtoriet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
